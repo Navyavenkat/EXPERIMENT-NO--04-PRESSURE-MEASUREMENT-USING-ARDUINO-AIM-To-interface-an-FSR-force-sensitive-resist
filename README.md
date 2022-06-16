@@ -137,22 +137,13 @@ void loop()
 ```
  
  ### OUTPUT
+ 
 
-![image](https://user-images.githubusercontent.com/36288975/163533136-5f8d00f2-8456-4d46-b243-d94d45f83eee.png)
-
-
-
+![image](https://user-images.githubusercontent.com/94165327/174072699-4ee8c0b3-ba63-475a-b86d-49c9c8959357.png)
 
 
 
-
-
-
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/94165327/174072628-8bbd032d-33a6-42a0-80ee-b4ddf7c3d160.png)
 
 
 
